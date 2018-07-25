@@ -328,6 +328,9 @@ h1{
     left:45%;
 
 }
+.footer-section:first-child() .special-readmore{
+    left: 3rem;
+}
 .footer-section strong{
 
     display: inline-block;
